@@ -48,13 +48,10 @@ object **Kaua** {
     <img/ align = "center"alt = "C++" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img/ align = "center"alt = "C" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
-    
+
 ## Projetos mais importantes:
     
 
 <a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">Carrinho de controle remoto de baixo custo e com faróis automatizados - Arduino;</a>
 <br>
 <a href="https://www.youtube.com/watch?v=TFDpEObSw-Q">VSmeter, uma roupa que mede condições fisiológicas à distância - IoT, Biomédica, Arduino.</a>
-
-![Snake animation](https://github.com/KauaMB2/KauaMB2/blob/output/github-contribution-grid-snake.svg)
-
