@@ -3,7 +3,6 @@
 </h1>
 Sobre Mim:
 
-
 ```kotlin
 object **Kaua** {
  val name = "Kauã Moreira Batista"
