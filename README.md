@@ -54,6 +54,6 @@ object **Kaua** {
 
 <a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">Carrinho de controle remoto de baixo custo e com faróis automatizados - Arduino;</a>
 <br>
-<a href="https://www.youtube.com/watch?v=TFDpEObSw-Q">VSmeter, uma roupa que mede condições fisiológicas à distância - IoT, Biomédica, Arduino</a>
+<a href="https://www.youtube.com/watch?v=TFDpEObSw-Q">VSmeter, uma roupa que mede condições fisiológicas à distância - IoT, Biomédica, Arduino.</a>
 
 ![Snake animation](https://github.com/KauaMB2/KauaMB2/blob/output/github-contribution-grid-snake.svg)
