@@ -19,7 +19,7 @@ object **Kaua** {
  💬 Entre em contato!
 </h2>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/kauãmoreirabatista/">
+  <a href="https://www.linkedin.com/in/kauamb2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/kaua_moreira_batista/">
