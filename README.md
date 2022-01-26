@@ -1,19 +1,22 @@
-<h1 align='center'>
- Olá, meu nome é Kauã
-</h1>
-Sobre Mim:
+### Oie devs 👋
+
+Técnico em Eletrônica, Automação Industrial - ETE FMC <3
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Kaua** {
- val name = "Kauã Moreira Batista"
- val school = "Aluno da ETE FMC em Santa Rita do Sapucaí, MG - Brasil"
+object **KAUA** {
+ val name = Kauã Moreira Batista
+ val acknowledgements = Eçletrônica, Automação Industrial
  
- val primarySkillset = "Eletrônica e Programação"
- val studing = "Automação Industrial"
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Wiring", "C/C++", "JavaScript", "Python") 
 
 }
-
 ```
+
 
 <h2 align='center'>
  💬 Entre em contato!
