@@ -9,9 +9,9 @@ Técnico em Eletrônica, Automação Industrial - ETE FMC ❤️
 ```kotlin
 object **KAUA** {
  val name = Kaua Moreira Batista
- val acknowledgements = Eçletrônica, Automação Industrial
+ val acknowledgements = Eletronica, Automacao Industrial
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Eletrônica analógica e digital, Microcontroladores"
  val languages = listOf("Wiring", "C/C++", "JavaScript", "Python") 
 
 }
