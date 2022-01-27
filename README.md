@@ -36,7 +36,12 @@ object **KAUA** {
   <br>
   Email: i.kauamoreirabatista@gmail.com
  <br>
-
+ 
+<div align="center">
+  <a href="https://github.com/KauaMB2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaMB2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMB2&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
 ## Tecnologias que eu uso:
  
