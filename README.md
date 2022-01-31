@@ -63,4 +63,3 @@ object **KAUA** {
 <hr/>
 
 ![Snake animation](https://github.com/KauaMB2/KauaMB2/blob/output/github-contribution-grid-snake.svg)
-
