@@ -1,25 +1,25 @@
-# Oie devs 👋
+# Hello devs, Nice to see you here 👋
 
 
-Técnico em Eletrônica, Automação Industrial - ETE FMC ❤️
+Electronic Technician, Industrial Automation - ETE FMC ❤️
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object **KAUA** {
  val name = Kaua Moreira Batista
- val acknowledgements = Eletronica, Automacao Industrial
+ val acknowledgements = Electronic, Industrial Automation
  
- val primarySkillset = "Eletrônica analógica e digital, Microcontroladores"
+ val primarySkillset = "Analogic and Digital Electronic, Microcontrollers"
  val languages = listOf("Wiring", "C/C++", "JavaScript", "Python") 
  val learning = listOf("Ladder", "HTML", "CSS")
 }
 ```
 
 <h2 align='center'>
- 💬 Entre em contato!
+ 💬 Contact!
 </h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/kauamb2/">
@@ -44,7 +44,7 @@ object **KAUA** {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMB2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-## Tecnologias que eu uso:
+## Technologies I use:
  
 <div style = "display: inline_block"<br/>
     <img align = "center"alt = "Python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,9 +57,9 @@ object **KAUA** {
 ## Projetos mais importantes:
     
 
-<a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">Carrinho de controle remoto de baixo custo e com faróis automatizados - Arduino;</a>
+<a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">Low cost remote control trolley with automated headlights - Arduino;</a>
 <br>
-<a href="https://www.youtube.com/watch?v=TFDpEObSw-Q">VSmeter, uma roupa que mede condições fisiológicas à distância - IoT, Biomédica, Arduino.</a>
+<a href="https://www.youtube.com/watch?v=TFDpEObSw-Q">VSmeter, a garment that measures physiological conditions from a distance - IoT, Biomedical, Arduino.</a>
 <hr/>
 
 ![Snake animation](https://github.com/KauaMB2/KauaMB2/blob/output/github-contribution-grid-snake.svg)
