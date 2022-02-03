@@ -54,7 +54,7 @@ object **KAUA** {
     <img/ align="center" alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br/>
 
-## Projetos mais importantes:
+## Most Important Projects:
     
 
 <a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">Low cost remote control trolley with automated headlights - Arduino;</a>
