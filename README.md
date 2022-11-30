@@ -64,6 +64,8 @@ object **KAUA** {
 <a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">Low cost remote control trolley with automated headlights - Arduino;</a>
 <br>
 <a href="https://www.youtube.com/watch?v=TFDpEObSw-Q">VSmeter, a garment that measures physiological conditions from a distance - IoT, Biomedical, Arduino.</a>
+<br>
+<a href="https://www.youtube.com/watch?v=znH3ytHdZ10&t">CEPEG - Control of protection Equipaments in General Companies</a>
 <hr/>
 
 ![Snake animation](https://github.com/KauaMB2/KauaMB2/blob/output/github-contribution-grid-snake.svg)
