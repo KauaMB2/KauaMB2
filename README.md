@@ -14,7 +14,7 @@ object **KAUA** {
  
  val primarySkillset = "Analogic and Digital Electronic, Microcontrollers"
  val languages = listOf("C/C++","Python","HTML","CSS","JavaScript","SQL") 
- val inMoment = listOf("Studying for the entrance exam")
+ val inMoment = listOf("Computer Engineering - Inatel")
 }
 ```
 
