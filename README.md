@@ -2,6 +2,7 @@
 
 
 Electronic Technician, Industrial Automation - ETE FMC ❤️
+Software Engineering - Inatel (Loading...)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
