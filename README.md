@@ -19,6 +19,9 @@ object **KAUA** {
 }
 ```
 
+## 🌐 Portfolio
+Check out my portfolio: [kauamoreirabatista.vercel.app](https://kauamoreirabatista.vercel.app)
+
 <h2 align='center'>
  💬 Contact!
 </h2>
