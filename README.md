@@ -13,7 +13,7 @@ object **KAUA** {
  val name = Kaua Moreira Batista
  val acknowledgements = Electronic, Industrial Automation
  
- val primarySkillset = "Analogic and Digital Electronic, Microcontrollers"
+ val primarySkillset = "Next, Express, Computer Vision"
  val languages = listOf("C/C++","Python","HTML","CSS","JavaScript","C#") 
  val inMoment = listOf("Software Engineering - Inatel")
 }
