@@ -62,14 +62,4 @@ Check out my portfolio: [kauamoreirabatista.vercel.app](https://kauamoreirabatis
     <img/ align="center" alt = "Arduino" src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div><br/>
 
-## Most Important Projects:
-    
-
-<a href="https://www.youtube.com/watch?v=oc6nMRU68TE&t=1s">Low cost remote control trolley with automated headlights - Arduino;</a>
-<br>
-<a href="https://www.youtube.com/watch?v=TFDpEObSw-Q">VSmeter, a garment that measures physiological conditions from a distance - IoT, Biomedical and Arduino;</a>
-<br>
-<a href="https://www.youtube.com/watch?v=znH3ytHdZ10&t">CEPEG - Control of protection Equipaments in General Companies.</a>
-<hr/>
-
 ![Snake animation](https://github.com/KauaMB2/KauaMB2/blob/output/github-contribution-grid-snake.svg)
