@@ -22,7 +22,7 @@
 ```typescript
 const kaua = {
   name:     "Kauã Moreira Batista",
-  age:      21,
+  age:      22,
   location: "Santa Rita do Sapucaí, MG 🇧🇷",
   education: [
     "Técnico em Eletrônica — ETE FMC (2020–2023)",
